@@ -1,2 +1,2 @@
 # SaturnityTweetDelete
-TempFix Repo for my SaturnityTweetDelete Tool (Still getting used to using github)
+Hosting repo for the .exe TweetDelete - Saturnitystools.com
